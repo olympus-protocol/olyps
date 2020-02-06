@@ -15,6 +15,7 @@ Name | Type
 The BlockHeader is the main identifier for the block. The BlockHeader contains: 
 * The block Version
 * The block Timestamp
+* The block Nonce
 * The Previous block hash
 * The Transactions MerkleRoot.
 
