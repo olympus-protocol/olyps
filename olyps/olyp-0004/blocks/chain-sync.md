@@ -19,4 +19,4 @@ The Sig is a BLS12-381 serialized aggregated signature produced by aggregating a
 
 ### Verification
 
-[![alt](./img/chain-sync.svg)](./img/chain-sync.svg?raw=true&sanitize=true)
+[![alt](../img/blocks/chain-sync.svg)](../img/blocks/chain-sync.svg?raw=true&sanitize=true)

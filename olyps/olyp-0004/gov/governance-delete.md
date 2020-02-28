@@ -23,4 +23,4 @@ The Sig is a BLS12-381 serialized signature that uses the Private Key of the add
 
 ### Verification
 
-[![alt](./img/governance-revoke.svg)](./img/governance-revoke.svg?raw=true&sanitize=true)
+[![alt](../img/gov/governance-delete.svg)](../img/gov/governance-delete.svg?raw=true&sanitize=true)

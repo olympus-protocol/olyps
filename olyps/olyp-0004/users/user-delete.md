@@ -18,4 +18,4 @@ The Name is the user identifier.
 
 ### Verification
 
-[![alt](./img/user-revoke.svg)](./img/user-revoke.svg?raw=true&sanitize=true)
+[![alt](../img/user/user-delete.svg)](../img/user/user-delete.svg?raw=true&sanitize=true)

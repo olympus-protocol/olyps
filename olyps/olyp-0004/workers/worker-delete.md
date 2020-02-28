@@ -23,4 +23,4 @@ The WorkerID is the OutPoint of the utxo used to add the worker to the list.
 
 ### Verification
 
-[![alt](./img/worker-revoke.svg)](./img/worker-revoke.svg?raw=true&sanitize=true)
+[![alt](../img/worker/worker-delete.svg)](../img/worker/worker-delete.svg?raw=true&sanitize=true)

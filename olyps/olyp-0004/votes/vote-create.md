@@ -33,4 +33,4 @@ The Approval is a boolean to determine if the vote is to fund it or not.
 
 ### Verification
 
-[![alt](./img/vote-upload.svg)](./img/vote-upload.svg?raw=true&sanitize=true)
+[![alt](../img/vote/vote-create.svg)](../img/vote/vote-create.svg?raw=true&sanitize=true)

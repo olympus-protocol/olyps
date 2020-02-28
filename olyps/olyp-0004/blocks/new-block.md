@@ -34,4 +34,4 @@ The Sig is a BLS12-381 serialized signature created using the private key of the
 
 ### Verification
 
-[![alt](./img/block.svg)](./img/block.svg?raw=true&sanitize=true)
+[![alt](../img/blocks/block.svg)](../img/blocks/block.svg?raw=true&sanitize=true)

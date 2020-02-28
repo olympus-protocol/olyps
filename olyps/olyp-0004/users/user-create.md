@@ -23,4 +23,4 @@ The Name is the user identifier.
 
 ### Verification
 
-[![alt](./img/user-upload.svg)](./img/user-upload.svg?raw=true&sanitize=true)
+[![alt](../img/user/user-create.svg)](../img/user/user-create.svg?raw=true&sanitize=true)

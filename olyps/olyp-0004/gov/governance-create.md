@@ -48,4 +48,4 @@ The Cycles is the amount of times the proposal will get payed.
 
 ### Verification
 
-[![alt](./img/governance-upload.svg)](./img/governance-upload.svg?raw=true&sanitize=true)
+[![alt](../img/gov/governance-create.svg)](../img/gov/governance-create.svg?raw=true&sanitize=true)

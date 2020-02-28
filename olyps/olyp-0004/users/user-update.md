@@ -28,4 +28,4 @@ The Name is the user identifier.
 
 ### Verification
 
-[![alt](./img/user-update.svg)](./img/user-update.svg?raw=true&sanitize=true)
+[![alt](../img/user/user-update.svg)](../img/user/user-update.svg?raw=true&sanitize=true)

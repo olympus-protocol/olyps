@@ -27,4 +27,4 @@ Each output is a reference to the new coin owner. It consists of a value and a P
 
 ### Verification
 
-[![alt](./img/coins-transfer.svg)](./img/coins-transfer.svg?raw=true&sanitize=true)
+[![alt](../img/coins/coins-transfer.svg)](../img/coins/coins-transfer.svg?raw=true&sanitize=true)

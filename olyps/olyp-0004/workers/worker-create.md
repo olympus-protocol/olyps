@@ -28,4 +28,4 @@ The IP is the external identifier for the worker.
 
 ### Verification
 
-[![alt](./img/worker-upload.svg)](./img/worker-upload.svg?raw=true&sanitize=true)
+[![alt](../img/worker/worker-create.svg)](../img/worker/worker-create.svg?raw=true&sanitize=true)

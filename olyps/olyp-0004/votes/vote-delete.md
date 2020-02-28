@@ -28,4 +28,4 @@ The GovID is the byte representation of the hash for governance proposal identif
 
 ### Verification
 
-[![alt](./img/vote-revoke.svg)](./img/vote-revoke.svg?raw=true&sanitize=true)
+[![alt](../img/vote/vote-delete.svg)](../img/vote/vote-delete.svg?raw=true&sanitize=true)
