@@ -1,4 +1,4 @@
-Coins (Generate) Verification Flow
+Coins (Create) Verification Flow
 --------------
 
 ### Payload elements definitions

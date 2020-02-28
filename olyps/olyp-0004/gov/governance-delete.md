@@ -1,4 +1,4 @@
-Governance (Revoke) Verification Flow
+Governance (Delete) Verification Flow
 --------------
 
 ### Payload elements definitions

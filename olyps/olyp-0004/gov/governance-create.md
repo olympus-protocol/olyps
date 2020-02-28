@@ -1,4 +1,4 @@
-Governance (Upload) Verification Flow
+Governance (Create) Verification Flow
 --------------
 
 ### Payload elements definitions
