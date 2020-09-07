@@ -8,7 +8,6 @@ OLYP stands for Olympus Improvement Proposal. An OLYP is a design document provi
 ## Olympus Improvement Proposal Summary
 Number | Layer | Title | Owner | Type | Status
 --- | --- | --- | --- | --- | ---
-[1](olyps/olyp-0001.md) | Applications | Hierarchicaly Deterministc wallets standards with BLS12-381 signatures | Enrique Berrueta | Informational | Final
 
 ## License
 
